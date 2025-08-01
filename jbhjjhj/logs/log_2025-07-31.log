@@ -1,0 +1,69 @@
+2025-07-31 14:33:35,303 - INFO - Model Training & COMET ML initialized..
+2025-07-31 14:33:35,610 - INFO - Data loaded sucesfully for Model Trainig
+2025-07-31 14:33:35,625 - INFO - Succesfully read the YAML file
+2025-07-31 14:33:35,625 - INFO - Loaded configuration from config.yaml
+2025-07-31 14:33:35,682 - INFO - Model created sucesfully....
+2025-07-31 14:33:53,120 - INFO - Model training Completedd.....
+2025-07-31 14:33:53,140 - INFO - Model saved to artifacts/model/model.h5
+2025-07-31 14:33:53,145 - INFO - Extracting weights for user_embedding
+2025-07-31 14:33:53,148 - INFO - Extracting weights for anime_embedding
+2025-07-31 14:33:53,179 - INFO - User and Anime weights saved sucesfully....
+2025-07-31 14:45:03,038 - INFO - Model Training & COMET ML initialized..
+2025-07-31 14:45:03,103 - INFO - Data loaded sucesfully for Model Trainig
+2025-07-31 14:45:03,118 - INFO - Succesfully read the YAML file
+2025-07-31 14:45:03,118 - INFO - Loaded configuration from config.yaml
+2025-07-31 14:45:03,178 - INFO - Model created sucesfully....
+2025-07-31 14:45:19,565 - INFO - Model training Completedd.....
+2025-07-31 14:45:19,594 - INFO - Model saved to artifacts/model/model.h5
+2025-07-31 14:45:19,598 - INFO - Extracting weights for user_embedding
+2025-07-31 14:45:19,602 - INFO - Extracting weights for anime_embedding
+2025-07-31 14:45:19,607 - INFO - User and Anime weights saved sucesfully....
+2025-07-31 14:46:05,087 - INFO - Model Training & COMET ML initialized..
+2025-07-31 14:46:05,157 - INFO - Data loaded sucesfully for Model Trainig
+2025-07-31 14:46:05,171 - INFO - Succesfully read the YAML file
+2025-07-31 14:46:05,171 - INFO - Loaded configuration from config.yaml
+2025-07-31 14:46:05,239 - INFO - Model created sucesfully....
+2025-07-31 14:46:05,240 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-07-31 14:50:37,514 - INFO - Model Training & COMET ML initialized..
+2025-07-31 14:50:37,598 - INFO - Data loaded successfully for Model Training
+2025-07-31 14:50:37,612 - INFO - Succesfully read the YAML file
+2025-07-31 14:50:37,612 - INFO - Loaded configuration from config.yaml
+2025-07-31 14:50:37,687 - INFO - Model created sucesfully....
+2025-07-31 14:50:54,728 - INFO - Model training Completed.....
+2025-07-31 14:50:54,757 - INFO - Model saved to artifacts/model/model.h5
+2025-07-31 14:50:54,762 - INFO - Extracting weights for user_embedding
+2025-07-31 14:50:54,766 - INFO - Extracting weights for anime_embedding
+2025-07-31 14:50:54,798 - INFO - User and Anime weights saved successfully....
+2025-07-31 14:57:11,957 - INFO - Model Training & COMET ML initialized..
+2025-07-31 14:57:12,038 - INFO - Data loaded successfully for Model Training
+2025-07-31 14:57:12,056 - INFO - Succesfully read the YAML file
+2025-07-31 14:57:12,056 - INFO - Loaded configuration from config.yaml
+2025-07-31 14:57:12,128 - INFO - Model created sucesfully....
+2025-07-31 14:57:30,539 - INFO - Model training Completed.....
+2025-07-31 14:57:30,564 - INFO - Model saved to artifacts/model/model.h5
+2025-07-31 14:57:30,569 - INFO - Extracting weights for user_embedding
+2025-07-31 14:57:30,573 - INFO - Extracting weights for anime_embedding
+2025-07-31 14:57:30,618 - INFO - User and Anime weights saved successfully....
+2025-07-31 15:09:58,089 - INFO - DataProcessing Intialized
+2025-07-31 15:09:58,507 - INFO - Data loaded sucesfully for Data Processing
+2025-07-31 15:09:58,596 - INFO - Filtered users sucesfully...
+2025-07-31 15:09:59,099 - INFO - Scalind done for Processing 
+2025-07-31 15:09:59,157 - INFO - Encoding done for Users and Anime
+2025-07-31 15:09:59,381 - INFO - Data splitted sucesfullyy
+2025-07-31 15:09:59,386 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-07-31 15:09:59,390 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-07-31 15:09:59,407 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-07-31 15:09:59,423 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-07-31 15:10:01,805 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-07-31 15:10:03,993 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-07-31 15:10:03,994 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2025-07-31 15:10:08,844 - INFO - Model Training & COMET ML initialized..
+2025-07-31 15:10:08,925 - INFO - Data loaded successfully for Model Training
+2025-07-31 15:10:08,938 - INFO - Succesfully read the YAML file
+2025-07-31 15:10:08,938 - INFO - Loaded configuration from config.yaml
+2025-07-31 15:10:09,013 - INFO - Model created sucesfully....
+2025-07-31 15:10:26,881 - INFO - Model training Completed.....
+2025-07-31 15:10:26,904 - INFO - Model saved to artifacts/model/model.h5
+2025-07-31 15:10:26,908 - INFO - Extracting weights for user_embedding
+2025-07-31 15:10:26,912 - INFO - Extracting weights for anime_embedding
+2025-07-31 15:10:26,946 - INFO - User and Anime weights saved successfully....
